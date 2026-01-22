@@ -6,4 +6,4 @@ the task is for config react Js project using vite manualy
 
 ## screenshot 
  
-![screenshot](creenshot.png)
+![screenshot](screenshot.png)
